@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding:0%;
+    background-color: yellowgreen;
+}
+.clock{
+    font-size: 150px;
+    text-align: center;
+}
+.button{
+    text-align: center;
+}
+.buttons{
+     
+     height: 30px;
+     width: 200px;
+     
+     gap: 10px;
+     border-radius: 30px;
+    cursor: pointer;
+}
+.buttons:hover{
+    background-color: black;
+    color: white;
+
+}
